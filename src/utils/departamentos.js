@@ -1,0 +1,71 @@
+export const departamentos = [
+    {
+        "id":1,
+        "name":"Atlántico Norte"
+    },
+    {
+        "id":2,
+        "name":"Atlántico Sur"
+    },
+    {
+        "id":3,
+        "name":"Boaco"
+    },
+    {
+        "id":4,
+        "name":"Carazo"
+    },
+    {
+        "id":5,
+        "name":"Chinandega"
+    },
+    {
+        "id":6,
+        "name":"Chontales"
+    },
+    {
+        "id":7,
+        "name":"Esteli"
+    },
+    {
+        "id":8,
+        "name":"Granada"
+    },
+    {
+        "id":9,
+        "name":"Jinotega"
+    },
+    {
+        "id":10,
+        "name":"León"
+    },
+    {
+        "id":11,
+        "name":"Madriz"
+    },
+    {
+        "id":12,
+        "name":"Managua"
+    },
+    {
+        "id":13,
+        "name":"Masaya"
+    },
+    {
+        "id":14,
+        "name":"Matagalpa"
+    },
+    {
+        "id":15,
+        "name":"Nueva Segovia"
+    },
+    {
+        "id":16,
+        "name":"Río San Juan"
+    },
+    {
+        "id":17,
+        "name":"Rivas"
+    }
+
+]
